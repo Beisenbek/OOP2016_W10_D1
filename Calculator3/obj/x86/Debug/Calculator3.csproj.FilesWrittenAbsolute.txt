@@ -1,0 +1,6 @@
+/Users/bsnbk/Projects/OOPW10D1/Calculator3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/bsnbk/Projects/OOPW10D1/Calculator3/bin/Debug/Calculator3.dll.mdb
+/Users/bsnbk/Projects/OOPW10D1/Calculator3/bin/Debug/Calculator3.dll
+/Users/bsnbk/Projects/OOPW10D1/Calculator3/obj/x86/Debug/Calculator3.dll
+/Users/bsnbk/Projects/OOPW10D1/Calculator3/obj/x86/Debug/Calculator3.dll.mdb
+/Users/bsnbk/Projects/OOPW10D1/Calculator3/bin/Debug/ICalculator.dll

@@ -1,0 +1,7 @@
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/bin/Debug/ICalculator.dll
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/bin/Debug/Calculator3.dll
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/bin/Debug/CoreSystem.exe.mdb
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/bin/Debug/CoreSystem.exe
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/obj/x86/Debug/CoreSystem.exe
+/Users/bsnbk/Projects/OOPW10D1/CoreSystem/obj/x86/Debug/CoreSystem.exe.mdb

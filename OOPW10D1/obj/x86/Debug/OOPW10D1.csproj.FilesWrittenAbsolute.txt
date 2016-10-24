@@ -1,0 +1,12 @@
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/OOPW10D1.exe.mdb
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/OOPW10D1.exe
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/obj/x86/Debug/OOPW10D1.exe
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/obj/x86/Debug/OOPW10D1.exe.mdb
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/Microsoft.Practices.Unity.Configuration.dll
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/Microsoft.Practices.Unity.dll
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/Microsoft.Practices.Unity.RegistrationByConvention.dll
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/Calculator3.dll
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/Calculator3.dll.mdb
+/Users/bsnbk/Projects/OOPW10D1/OOPW10D1/bin/Debug/ICalculator.dll

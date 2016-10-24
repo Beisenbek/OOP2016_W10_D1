@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A00F876C-D588-4B79-AEBF-8C517E6FBEB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreSystem/Program.cs">
+    <Files>
+      <File FileName="OOPW10D1/Program.cs" Line="36" Column="29" />
+      <File FileName="Calculator3/Program.cs" Line="5" Column="39" />
+      <File FileName="Calculator3/Properties/AssemblyInfo.cs" Line="8" Column="28" />
+      <File FileName="OOPW10D1/Properties/AssemblyInfo.cs" Line="6" Column="1" />
+      <File FileName="ICalculator/MyClass.cs" Line="8" Column="3" />
+      <File FileName="CoreSystem/Program.cs" Line="35" Column="5" />
+      <File FileName="Calculator4/Program.cs" Line="10" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPW10D1" expanded="True">
+            <Node name="Calculator3" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Calculator4" expanded="True" />
+            <Node name="CoreSystem" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ICalculator" expanded="True" />
+            <Node name="OOPW10D1" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOPW10D1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CoreSystem PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
